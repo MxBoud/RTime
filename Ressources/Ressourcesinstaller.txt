@@ -1,0 +1,33 @@
+Le dossier tablelist5.16 dans: 
+
+C:\Python27\tcl
+
+
+
+
+Le fichier tablelist.py dans : 
+
+
+C:\Python27\Lib\lib-tk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://blog.clintecker.com/post/148453368/tktable-for-tkinter-and-python
